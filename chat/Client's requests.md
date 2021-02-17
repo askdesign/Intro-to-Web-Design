@@ -1,4 +1,4 @@
-Client’s requests:
+# Client’s requests:
 • Design needs updating. Wants it to be custom design.
 • Wants site to be a less stodgy: 
 • Needs to reach out to younger demographic: 
